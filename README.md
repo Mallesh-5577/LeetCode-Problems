@@ -23,15 +23,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0219-contains-duplicate-ii](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0075-sort-colors) |
+| [0349-intersection-of-two-arrays](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0075-sort-colors) |
+| [0349-intersection-of-two-arrays](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 ## Quicksort
 |  |
 | ------- |
@@ -44,11 +47,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 ## Sliding Window
 |  |
 | ------- |
