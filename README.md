@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/1837-sum-of-digits-in-base-k) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Dynamic Programming
 |  |
 | ------- |
