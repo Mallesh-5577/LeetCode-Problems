@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1492-the-kth-factor-of-n](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/1492-the-kth-factor-of-n) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/1837-sum-of-digits-in-base-k) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Dynamic Programming
@@ -132,8 +133,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0258-add-digits) |
+| [1492-the-kth-factor-of-n](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/1492-the-kth-factor-of-n) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0190-reverse-bits) |
+## Prime Factorization
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
