@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1492-the-kth-factor-of-n](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/1492-the-kth-factor-of-n) |
+| [1512-number-of-good-pairs](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/1837-sum-of-digits-in-base-k) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Dynamic Programming
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0704-binary-search) |
+| [1512-number-of-good-pairs](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1512-number-of-good-pairs](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [1512-number-of-good-pairs](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
 ## Quickselect
 |  |
 | ------- |
