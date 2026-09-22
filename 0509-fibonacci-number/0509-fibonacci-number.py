@@ -1,10 +1,13 @@
 class Solution(object):
     def fib(self, n):
-        """
-        :type n: int
-        :rtype: int
-        """
-        i,j = 0,1
-        for k in range(n):
-            i,j=j,i+j
-        return i
+        if n==0:
+            return 0
+        elif n==1:
+            return 1
+        else:
+            ans=[0]*(n+1)
+            ans[0]=0
+            ans[1]=1
+            for i in range(2,n+1):
+                ans[i]=ans[i-1]+ans[i-2]
+            return ans[n]
