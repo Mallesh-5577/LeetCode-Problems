@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0506-relative-ranks) |
 | [0704-binary-search](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0704-binary-search) |
 | [1512-number-of-good-pairs](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0506-relative-ranks) |
 ## Quicksort
 |  |
