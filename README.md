@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0258-add-digits) |
 | [0507-perfect-number](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0507-perfect-number) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0189-rotate-array](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
