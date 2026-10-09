@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0704-binary-search) |
 | [1512-number-of-good-pairs](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/1748-sum-of-unique-elements) |
+| [3731-find-missing-elements](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0506-relative-ranks) |
+| [3731-find-missing-elements](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/3731-find-missing-elements) |
 ## Quicksort
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/1748-sum-of-unique-elements) |
+| [3731-find-missing-elements](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
 | ------- |
