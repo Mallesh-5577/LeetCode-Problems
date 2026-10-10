@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0189-rotate-array) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Mallesh-5577/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
