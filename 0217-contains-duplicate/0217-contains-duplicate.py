@@ -1,11 +1,11 @@
 class Solution(object):
     def containsDuplicate(self, nums):
-        nums.sort()
 
-        for i in range(len(nums)-1):
-            if nums[i]==nums[i+1]:
+        dic1 = {}
+        for i in range(len(nums)):
+            if nums[i] in dic1:
                 return True
                 break
             else:
-                i+=1
+                dic1[nums[i]]=i
         return False
