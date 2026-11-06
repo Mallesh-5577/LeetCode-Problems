@@ -1,11 +1,10 @@
 class Solution(object):
     def maxProfit(self, prices):
+        min_profit = float('inf')
+        max_profit = 0
 
-        buy = float("inf")
-        profit = 0
+        for buy in prices:
+            min_profit = min(min_profit,buy)
+            max_profit = max(max_profit,buy-min_profit)
 
-        for sell in prices:
-            buy = min(buy,sell) 
-            profit = max(profit,sell-buy)
-            
-        return profit
+        return max_profit
