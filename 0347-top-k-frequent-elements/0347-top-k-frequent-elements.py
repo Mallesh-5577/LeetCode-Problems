@@ -13,8 +13,9 @@ class Solution(object):
             else:
                 ans[keys] +=1
 
-        sorted_res = sorted(ans, key=ans.get, reverse=True)
-
-        res = sorted_res[:k]
+        sorted_res = sorted(ans,key=ans.get,reverse=True)
+        res=[]
+        for i in range(k):
+            res.append(sorted_res[i])
         
         return res
