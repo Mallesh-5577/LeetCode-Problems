@@ -6,9 +6,8 @@ class Solution(object):
         min_total = 0
 
         for i in range(len(nums)):
-            total = total+nums[i]
-            largest = max(largest, total-min_total)
-            min_total = min(min_total,total)
+            total+=nums[i]
+            largest = max(largest,total-min_total)
+            min_total = min(total,min_total)
         
         return largest
-        
